@@ -42,3 +42,6 @@ Lastly, you can follow the below demonstration to create/get your [IBM Cloud use
 
 ![Getting IBM cloud user API key](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0PPIEN/ezgif.com-video-to-gif.gif)
 >>>>>>> 8110cc6 (Files regarding the DataChatBot)
+>>>>>>>
+>>>>>>> ![image](https://github.com/user-attachments/assets/45185833-973f-4952-9763-de8fddad6e17)
+
