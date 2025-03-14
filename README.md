@@ -6,6 +6,10 @@ In this project, We will create a chatbot for pdf file using Flask, a popular we
 
 **Step2**: In this project, you do not need to specify your own Watsonx_API and Project_id. Detailed instructions and further information are available in this [tutorial](https://medium.com/the-power-of-ai/ibm-watsonx-ai-the-interface-and-api-e8e1c7227358). 
 
+**Chat Bot Demo:**
+
+![image](https://github.com/user-attachments/assets/13022027-2f8e-4dae-9466-f6dff4ce4f4a)
+
 =======
 ## How to get watsonx API key and Project ID
 
