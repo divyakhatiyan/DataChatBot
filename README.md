@@ -2,6 +2,8 @@
 In this project, We will create a chatbot for pdf file using Flask, a popular web framework, and LangChain, another popular framework for working with large language models (LLMs). The chatbot  We develop will not just interact with users through text but also comprehend and answer questions related to the content of a specific document.
 
 **Step1** : pip install -r requirements.txt
+
+
 **Step2**: In this project, you do not need to specify your own Watsonx_API and Project_id. Detailed instructions and further information are available in this [tutorial](https://medium.com/the-power-of-ai/ibm-watsonx-ai-the-interface-and-api-e8e1c7227358). 
 
 =======
